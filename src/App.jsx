@@ -2,7 +2,8 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
 import data from './data/data'
-import RenderTask from './components/rendertask'
+
+import Checkifdataisempty from './components/rendertask'
 
 function App() {
   const [tasknum,setTaskNum]=useState(0);
@@ -36,7 +37,7 @@ function toggleStrike() {
     <div className="App">
       <h1>Yellow Ocean</h1>
       <h2>Today's task is: </h2>
-      <RenderTask tasknum={tasknum}/>
+      <Checkifdataisempty tasknum={tasknum}/>
       <button id='done' onClick={toggleStrike}>Mark as done</button>
 
       <button id='newt' onClick={newTask}>Get new task!</button>

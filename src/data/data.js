@@ -28,12 +28,5 @@ export default [
           task:"Notice your difficult thoughts and feelings, name the thoughts and feelings (silently) and refocus on what you are doing and tell yourself what is important to you",
      
      },
-     {
-          id:5,
-          tag:'thoughts and feelings',
-          name: "Write it down",
-          description: "nill",
-          task:""
-     }
 
 ]
