@@ -38,7 +38,7 @@ function toggleStrike() {
       <h1>Yellow Ocean</h1>
       <h2>Today's task is: </h2>
       <Checkifdataisempty tasknum={tasknum}/>
-      <button id='done' onClick={toggleStrike}>Mark as done</button>
+      <button id='done' className='' onClick={toggleStrike}>Mark as done</button>
 
       <button id='newt' onClick={newTask}>Get new task!</button>
       <p>
