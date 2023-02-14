@@ -3,6 +3,7 @@ This is an app which would give you tasks every day, tasks which will improve yo
 
 Currently you can just go through all the tasks, but the idea is the app would give you one task every day for a set number of days (like a month) and teach you tools to improve your mental health being. 
 
+For now there are only a few tasks added.
 
 how to run project :
 
