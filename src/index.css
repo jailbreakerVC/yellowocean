@@ -44,7 +44,7 @@ button {
   border-radius: 7px;
   border: 1px solid grey;
   padding: 0.6em 1.2em;
-  
+  /* padding-left: ; */
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;

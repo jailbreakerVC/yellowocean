@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+
 import './App.css'
-import data from './data/data'
+// import data from './data/data'
 
 import Checkifdataisempty from './components/rendertask'
 

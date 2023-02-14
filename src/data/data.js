@@ -30,3 +30,11 @@ export default [
      },
 
 ]
+
+// {
+//      id:3,
+//      tag:'stress',
+//      name: "Ground yourself",
+//      description: "nill",
+//      task:"Notice how you are feeling and what you are thinking...then slow down and connect with your body, breathe out (slowly) stretch (slowly) and push your feet into the ground...refocus on the world around you, notice where you are and what you are doing"
+// }

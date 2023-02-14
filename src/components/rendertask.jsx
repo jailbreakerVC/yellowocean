@@ -17,6 +17,6 @@ function Checkifdataisempty(props){
      
      }
 
-
+// if (da)
 export default Checkifdataisempty;
 
