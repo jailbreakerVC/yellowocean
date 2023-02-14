@@ -4,10 +4,13 @@ This is an app which would give you tasks every day, tasks which will improve yo
 Currently you can just go through all the tasks, but the idea is the app would give you one task every day for a set number of days (like a month) and teach you tools to improve your mental health being. 
 
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/54243183/218796314-8a9bc89f-d5ba-4530-839e-43c11875706c.png)" width="50%" height="100%">
-
 how to run project :
 
 1. Clone the project 
 2. npm install
 3. npm run dev
+
+
+Screenshot:
+![image](https://user-images.githubusercontent.com/54243183/218797106-3857dd92-a33a-46c9-8bea-f73e16d8bacd.png)
+
