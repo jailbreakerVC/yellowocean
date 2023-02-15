@@ -97,4 +97,7 @@ ul {
 .strikethrough {
   text-decoration: line-through;
 }
-
+#desc {
+  color: rgb(119, 89, 5);
+  font-style: italic;
+}

@@ -12,11 +12,10 @@ function Checkifdataisempty(props){
           
           <h2>{data[props.tasknum].name}</h2>
           <h3 id='task' className=''>{data[props.tasknum].task}</h3>
-
+          <p id='desc'>description: {data[props.tasknum].description}</p>
      </div>
      
      }
 
-// if (da)
 export default Checkifdataisempty;
 
