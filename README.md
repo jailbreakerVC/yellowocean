@@ -13,5 +13,7 @@ how to run project :
 
 
 Screenshot:
-![image](https://user-images.githubusercontent.com/54243183/218797106-3857dd92-a33a-46c9-8bea-f73e16d8bacd.png)
 
+<p>
+![Screenshot 2023-02-15 094246](https://user-images.githubusercontent.com/54243183/218929416-fc4bbb53-c802-4ea7-8d2c-a71996a0d748.png)
+</p>
