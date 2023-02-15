@@ -14,6 +14,5 @@ how to run project :
 
 Screenshot:
 
-<p>
+
 ![Screenshot 2023-02-15 094246](https://user-images.githubusercontent.com/54243183/218929416-fc4bbb53-c802-4ea7-8d2c-a71996a0d748.png)
-</p>
